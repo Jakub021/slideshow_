@@ -1,0 +1,6 @@
+div { width: 256px; height: 192px; display: block; }
+img { width: 200px; height: 94px; }
+table { border-style:dotted; }
+table {
+  border: 2px solid #000000;
+}

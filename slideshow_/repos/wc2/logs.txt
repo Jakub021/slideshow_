@@ -1,0 +1,201 @@
+    1  git clone https://github.com/lsnp/slideshow_.git
+    2  cd slideshow_
+    3  rm -rf .git
+    4  cd ~
+    5  mkdir repos
+    6  cd repos
+    7  git clone --bare ~/slideshow_
+    8  git clone -- bare /slideshow_
+    9  git clone slideshow_
+   10  git clone slideshow_.git wc1
+   11  mkdir repos
+   12  cd repos
+   13  git init
+   14  ls -la
+   15  git add .
+   16  git commit
+   17  git config --global user.email "jakubwloch21@gmail.com"
+   18  git commit
+   19  git init
+   20  ls -la
+   21  git add .
+   22  git commit
+   23  mkdir repos
+   24  cd repos
+   25  git clone --bare ~/slideshow_
+   26  git clone slideshow_
+   27  git clone slideshow_.git
+   28  git clone https://github.com/lsnp/slideshow_.git
+   29  cd slideshow_; rm -rf .git
+   30  git init
+   31  ls -la
+   32  git add .
+   33  git commit
+   34  mkdir repos
+   35  cd repos
+   36  git clone --bare ~/slideshow_
+   37  git clone ~/repos/slideshow_.git wc1
+   38  git clone slideshow_.git wc1
+   39  cd ~/slideshow_
+   40  git status
+   41  ls
+   42  git clone slideshow_.git wc2
+   43  git clone slideshow_ wc2
+   44  git clone https://github.com/lsnp/slideshow_.git
+   45  cd slideshow_;
+   46  rm -rf .git
+   47  ls
+   48  git init
+   49  git clone https://github.com/lsnp/slideshow_.git
+   50  cd slideshow_;
+   51  rm -rf .git
+   52  ls
+   53  git add .
+   54  git commit
+   55  ls
+   56  git config --global user.name Jakub021
+   57  git commit
+   58  git config --global user.email jakubwloch21@gmail.com
+   59  git commit
+   60  cls
+   61  cd slideshow_
+   62  mkdir projects
+   63  cd projects
+   64  cd ..
+   65  mkdir repos
+   66  cd repos
+   67  git clone --bare
+   68  ls
+   69  git clone --bare slideshow.git
+   70  clear
+   71  git clone https://github.com/lsnp/slideshow_.git
+   72  cd slideshow_
+   73   rm -rf
+   74  rm -rf .git
+   75  git init
+   76  ls -la
+   77  git add .
+   78  git commit -m "first"
+   79  mkdir repos
+   80  cd repos
+   81  git clone --bare ~/slideshow_
+   82  git clone ~/repos/slideshow.git wc1
+   83  git clone slideshow.git wc1
+   84  git clone slideshow_.git wc1
+   85  cd ..
+   86  git status
+   87  cd repos
+   88  git status
+   89  git add repos
+   90  ls
+   91  git status
+   92  cd ..
+   93  git status
+   94  c d repos
+   95  cd repos
+   96  git status
+   97  git add repos
+   98  cd ..
+   99  git add repos
+  100  git status
+  101  ls
+  102  git clone slideshow_.git wc2
+  103  cd repos
+  104  git clone slideshow_.git wc2
+  105  cd wc1
+  106  git clone https://github.com/lsnp/slideshow_.git
+  107  cd slideshow_
+  108  rm -rf .git
+  109  git init
+  110  ls -la
+  111  git add .
+  112  git commit - "first commit"
+  113  git commit -m "first commit"
+  114  mkdir repos
+  115  cd repos
+  116  git clone --bare slideshow_.git
+  117  git clone --bare ~/slideshow_.git
+  118  git clone --bare ~/slideshow_
+  119  git clone ~/repos/slideshow.git wc1
+  120  cd ..
+  121  git clone ~/repos/slideshow.git wc1
+  122  git clone ~/repos/slideshow_.git wc1
+  123  cd repos
+  124  git clone ~/repos/slideshow_.git wc1
+  125  git clone slideshow_.git wc1
+  126  c d..
+  127  cd ..
+  128  git status
+  129  git add .
+  130  git status
+  131  git commit
+  132  git add
+  133  git add .
+  134  git commit repos/wc1/
+  135  git commit wc1
+  136  ls
+  137  cd repos
+  138  ls
+  139  cd slideshow_.git/
+  140  git status
+  141  ls
+  142  cd..
+  143  cd ..
+  144  git clone slideshow.git wc2
+  145  git clone slideshow_.git wc2
+  146  cd wc1
+  147  ls
+  148  mkdir pic
+  149  mv *.jpg pic/
+  150  ls
+  151  mv *.png pic/
+  152  ls
+  153  mkdir js
+  154  mv *.js js/
+  155  ls
+  156  git status
+  157  git add .
+  158  git status
+  159  git commit -m "moving files"
+  160  ls
+  161  git push
+  162  git status
+  163  touch logo5.html
+  164  ls
+  165  cp logo.html logo5.html
+  166  nano logo5.html
+  167  git status
+  168  git diff
+  169  gid add logo5.html
+  170  git add logo5.html
+  171  git commit -m "mod logo5"
+  172  git push
+  173  git status
+  174  cd ..
+  175  cd wc2
+  176  git pull
+  177  git status
+  178  ls
+  179  mkdir html
+  180  git status
+  181  ls
+  182  git add .
+  183  git commit -m "new html folder"
+  184  git push
+  185  git status
+  186  mv *.html html/
+  187  ls
+  188  git status
+  189  cp logo_jq1.js logo_jq2.js
+  190  cp logo_jq1.js logo_jq2.js
+  191  ls
+  192  touch logo_jq2.js
+  193  ls
+  194  cp js/logo_jq1.js logo_jq2.js
+  195  nano logo_jq2.js
+  196  git status
+  197  git add .
+  198  git commit -m "mod logo_jq2.js"
+  199  git push
+  200  history > logs.txt
+  201  history > logs.txt
